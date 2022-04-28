@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dgtzm99
-- 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Explainable Machine Learning, particularly SHAP values
+- 👀 I’m interested in Data Science, Machine Learning, and Explainable AI
 - 📫 How to reach me Twitter @dadagugumomo
 - :man_student: 3rd Year BSc Computer Science with Intelligent Systems @Kings College in London
 <!---
